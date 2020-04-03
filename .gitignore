@@ -1,0 +1,8 @@
+node_modules
+.idea
+*.log
+.apikey*.json
+.DS_Store
+logs
+*.env
+cache
